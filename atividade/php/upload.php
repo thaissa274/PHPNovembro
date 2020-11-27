@@ -32,3 +32,4 @@ if (substr($_FILES['arquivo']['name'], -3) == "png") {
 }
 ?>
 
+
